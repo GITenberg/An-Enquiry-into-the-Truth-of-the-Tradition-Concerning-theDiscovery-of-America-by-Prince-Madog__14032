@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7275'
     url: http://www.gutenberg.org/2009/agents/7275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14032#An-Enquiry-into-the-Truth-of-the-Tradition-Concerning-theDiscovery-of-America-by-Prince-Madog_
 gutenberg_issued: '2004-11-12'
 gutenberg_type: Text
 identifiers:

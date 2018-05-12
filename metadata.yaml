@@ -1,0 +1,28 @@
+_repo: An-Enquiry-into-the-Truth-of-the-Tradition-Concerning-theDiscovery-of-America-by-Prince-Madog__14032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, John
+    birthdate: 1727
+    deathdate: 1798
+    gutenberg_agent_id: '7275'
+    url: http://www.gutenberg.org/2009/agents/7275
+description: ''
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Welsh'
+- !lcsh 'Madog ab Owain Gwynedd, 1150-1180?'
+- !lcc 'E011'
+title: An Enquiry into the Truth of the Tradition, Concerning the Discovery of America,
+  by Prince Madog ab Owen Gwynedd, about the Year, 1170
+url: http://www.gutenberg.org/ebooks/14032
